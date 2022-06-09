@@ -727,6 +727,7 @@ header .head-part{
 }
 .galerie-images .galerie1 .warsaw:hover{
     box-shadow: 2px 0px 20px -4px #888888;
+
 }
 .galerie-images .galerie1 .warsaw .warsaw-btn{
     display: flex;

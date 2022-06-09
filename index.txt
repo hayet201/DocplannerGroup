@@ -276,7 +276,7 @@
             
         </div>
         <div class="copyright">
-            www.docplanner.com Â© 2019
+            www.docplanner.com © 2019
         </div>
     </section>
     
